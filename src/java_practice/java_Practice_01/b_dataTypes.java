@@ -1,4 +1,4 @@
-package java_practice;
+package java_practice.java_Practice_01;
 
 public class b_dataTypes {
     //primitive data types
